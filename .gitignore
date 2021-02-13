@@ -1,0 +1,7 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+
+BackEnd/onlineShop/target/classes/config.properties
+BackEnd/onlineShop/target/onlineShop-1.0-SNAPSHOT/
+BackEnd/onlineShop/target/onlineShop.war
+BackEnd/onlineShop/src/main/resources/config.properties
