@@ -17,7 +17,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 
     @Override
     protected void configure(HttpSecurity http) throws Exception {
-        //csrf() 解决vulnerability的, 防钓鱼网站
+        //csrf() resolve vulnerability, prevent fishing website
         http
                 .csrf().disable() //current no this functionality
                 .formLogin()
@@ -30,7 +30,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
                 .anyRequest().permitAll(); // the rest requst do not need any authentication
 
         // get*/: * means regular expression
-//            /**: mathch 后面任意的url, 只有一个*的话,就不能match多个/a/b这样的(只能match /a)
+//            /**: mathch any url after it.  only one *, cannot match multiple /a/b (only match /a)
 
     }
 

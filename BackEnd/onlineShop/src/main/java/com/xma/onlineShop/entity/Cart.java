@@ -29,7 +29,7 @@ public class Cart implements Serializable {
     @OneToOne(mappedBy = "cart")
     @JsonIgnore
     private Customer customer;
-    //jsonignore 如果实际生成了 cart, 需要返回cart等就要加json ignore
+    //jsonignore if actually generates cart, need to return cart, then add json ignore
 
     @OneToMany(mappedBy = "cart", cascade = CascadeType.ALL, fetch=FetchType.EAGER)
     private List<CartItem> cartItem;
