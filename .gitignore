@@ -5,3 +5,8 @@ BackEnd/onlineShop/target/classes/config.properties
 BackEnd/onlineShop/target/onlineShop-1.0-SNAPSHOT/
 BackEnd/onlineShop/target/onlineShop.war
 BackEnd/onlineShop/src/main/resources/config.properties
+
+/BackEnd/onlineShop/src/main/recources/config.properties
+/BackEnd/onlineShop/target
+/BackEnd/onlineShop/.idea/libraries/
+/BackEnd/onlineShop/.idea/dataSources/
