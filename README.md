@@ -13,7 +13,7 @@ SignUp page
 ![SignUp](./img/signup.png)
 
 Login page
-![Login](./img/login.png)
+![Login](./img/signin.png)
 
 Product page
 ![Product](./img/products.png)
