@@ -1,7 +1,7 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 
-/BackEnd/onlineShop/src/main/recources/config.properties
+/BackEnd/onlineShop/src/main/resources/config.properties
 /BackEnd/onlineShop/target
 /BackEnd/onlineShop/.idea/libraries/
 /BackEnd/onlineShop/.idea/dataSources/
