@@ -18,7 +18,6 @@ com/xma/onlineShop/entity/SalesOrder.class
 com/xma/onlineShop/controller/CartController.class
 com/xma/onlineShop/dao/CustomerDao.class
 com/xma/onlineShop/service/CartService.class
-com/xma/onlineShop/HelloServlet.class
 com/xma/onlineShop/entity/ShippingAddress.class
 com/xma/onlineShop/service/ProductService.class
 com/xma/onlineShop/controller/CartItemController.class

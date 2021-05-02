@@ -2,7 +2,6 @@
 /home/marvin/Dropbox/Projects/OnlineShop/BackEnd/onlineShop/src/main/java/com/xma/onlineShop/service/SalesOrderService.java
 /home/marvin/Dropbox/Projects/OnlineShop/BackEnd/onlineShop/src/main/java/com/xma/onlineShop/entity/Product.java
 /home/marvin/Dropbox/Projects/OnlineShop/BackEnd/onlineShop/src/main/java/com/xma/onlineShop/controller/RegistrationController.java
-/home/marvin/Dropbox/Projects/OnlineShop/BackEnd/onlineShop/src/main/java/com/xma/onlineShop/HelloServlet.java
 /home/marvin/Dropbox/Projects/OnlineShop/BackEnd/onlineShop/src/main/java/com/xma/onlineShop/entity/SalesOrder.java
 /home/marvin/Dropbox/Projects/OnlineShop/BackEnd/onlineShop/src/main/java/com/xma/onlineShop/entity/CartItem.java
 /home/marvin/Dropbox/Projects/OnlineShop/BackEnd/onlineShop/src/main/java/com/xma/onlineShop/controller/CartController.java
